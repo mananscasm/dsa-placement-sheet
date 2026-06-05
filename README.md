@@ -8,6 +8,7 @@ This repository is designed to be useful, beginner-friendly, and contribution-fr
 
 ## Contents
 
+- `docs/DSA-SHEET.md`: topic-wise DSA sheet with patterns and revision plan.
 - `docs/ROADMAP.md`: planned improvements and contribution ideas.
 - `.github/ISSUE_TEMPLATE`: structured issue templates.
 - `.github/workflows/repo-health.yml`: lightweight repository quality checks.
